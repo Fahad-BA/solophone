@@ -221,17 +221,10 @@ We believe in focused innovation. Join us in building the future of specialized 
 
 ---
 
-## 📜 License
-
-MIT License - See [LICENSE](LICENSE) for details.
-
----
-
 ## 🌐 Links
 
-- **Live Demo:** [Solophone Poster Studio](https://your-demo-url.com)
+- **Live Demo:** [Solophone Poster Studio](https://solophone.fhidan.com)
 - **Documentation:** [README.md](README.md)
-- **Source Code:** [GitHub Repository](https://github.com/your-repo/solophone)
 
 ---
 
