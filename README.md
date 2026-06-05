@@ -223,7 +223,7 @@ We believe in focused innovation. Join us in building the future of specialized 
 
 ## 🌐 Links
 
-- **Live Demo:** [Solophone Poster Studio](https://solophone.fhidan.com)
+- **Live Demo:** [Solophone Poster Studio](https://fhidan.com/solophone/)
 - **Documentation:** [README.md](README.md)
 
 ---
